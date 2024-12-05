@@ -1,0 +1,13 @@
+Indicator,value,region
+Avg_temp,86.36,southern
+Min_temp,75.29,southern
+Precipitation_avg,12.58,southern
+Avg_temp,72.39,eastern
+Min_temp,61.21,eastern
+Precipitation_avg,12.76,eastern
+Avg_temp,79.33,central
+Min_temp,67.81,central
+Precipitation_avg,12.41,central
+Avg_temp,74.49,western
+Min_temp,59,western
+Precipitation_avg,7.5,western

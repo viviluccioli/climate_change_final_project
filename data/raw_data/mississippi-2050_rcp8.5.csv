@@ -1,0 +1,24 @@
+"Data Source: Future Climate Scenarios Tool in the Climate Toolbox (https://climatetoolbox.org/tool/future-climate-scenarios)"
+Download Date: 12/02/2024
+
+Climate Scenarios
+The summary table below describes changes in the future climate by 2050 (2040-2069) relative to the 1971-2000 period under climate scenarios: 
+Scenario 1,GFDL-ESM2M.rcp45
+Scenario 2,20CMIP5ModelMean.rcp45
+Scenario 3,GFDL-ESM2M.rcp85
+Scenario 4,20CMIP5ModelMean.rcp85
+
+********************************************************
+Climate Metric, Scenario 1, Scenario 2, Scenario 3, Scenario 4, Historical Value
+Summer Mean Temperature(°F),84.072647,84.741516,85.732536,86.361153,80.455078
+(change relative to historical by °F),3.62,4.29,5.28,5.91
+
+Summer Minimum Temperature(°F),72.849205,73.811882,74.546059,75.289818,69.653244
+(change relative to historical by °F),3.20,4.16,4.89,5.64
+
+Summer Precipitation,14.432806,12.946928,14.757672,12.577443,13.327980
+(% change relative to historical),8.29,-2.86,10.73,-5.63
+
+Coldest Winter Day, 14.462223, 18.099670, 14.340302, 18.436354, 13.885261
+(relative to historical by °F), 0.58, 4.21, 0.46, 4.55
+
